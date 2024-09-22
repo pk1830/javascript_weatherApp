@@ -1,0 +1,9 @@
+{
+  "homepage": "https://pk1830.github.io/javascript_PK_WeatherApp",
+  "scripts": {
+    "deploy": "gh-pages -d ."
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
+  }
+}
